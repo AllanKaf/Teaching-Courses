@@ -327,7 +327,7 @@
                 </div>
                 <div class="info-group">
                     <label for="instructor-email">Email:</label>
-                    <input type="email" id="instructor-email" value="allan.kafley@northseattle.edu" />
+                    <input type="email" id="instructor-email" value="allan.kafley@seattlecolleges.edu" />
                 </div>
                 <div class="info-group">
                     <label for="instructor-phone">Phone:</label>
