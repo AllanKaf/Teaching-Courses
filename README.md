@@ -361,11 +361,11 @@
                 <div id="course-info" class="editable">
                     <div class="info-group">
                         <label for="course-code">Course Code:</label>
-                        <input type="text" id="course-code" value="IT 210" />
+                        <input type="text" id="course-code" value="IT 120" />
                     </div>
                     <div class="info-group">
                         <label for="course-title">Course Title:</label>
-                        <input type="text" id="course-title" value="CompTIA Network+ Certification Prep" />
+                        <input type="text" id="course-title" value="Network Essentials - Comptia Network +" />
                     </div>
                     <div class="info-group">
                         <label for="credits">Credits:</label>
@@ -376,16 +376,16 @@
                         <input type="text" id="semester" value="Fall 2025" />
                     </div>
                     <div class="info-group">
-                        <label for="section">Section:</label>
-                        <input type="text" id="section" value="001" />
+                        <label for="recquirement">Course Prerequisite(s):</label>
+                        <input type="text" id="recquirement" value="EET 131 (See details below)" />
                     </div>
                     <div class="info-group">
                         <label for="meeting-time">Meeting Time:</label>
-                        <input type="text" id="meeting-time" value="Tuesdays & Thursdays 6:00 PM - 8:50 PM" />
+                        <input type="text" id="meeting-time" value="Tuesdays & Thursdays 10:00 AM - 12:00 PM" />
                     </div>
                     <div class="info-group">
                         <label for="location">Location:</label>
-                        <input type="text" id="location" value="Tech Building, Computer Lab 112" />
+                        <input type="text" id="location" value="Online" />
                     </div>
                     <button class="save-btn" onclick="saveCourseInfo()">💾 Save Course Information</button>
                 </div>
