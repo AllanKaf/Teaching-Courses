@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CompTIA Network+ Syllabus - North Seattle College</title>
+    <title>IT120 - Network Essentials - Comptia Network+ </title>
     <style>
         :root {
             --primary-blue: #1e3a8a;
