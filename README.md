@@ -372,8 +372,8 @@
                         <input type="text" id="credits" value="5" />
                     </div>
                     <div class="info-group">
-                        <label for="semester">Semester:</label>
-                        <input type="text" id="semester" value="Fall 2025" />
+                        <label for="quarter">Quarter:</label>
+                        <input type="text" id="quarter" value="Fall 2025" />
                     </div>
                     <div class="info-group">
                         <label for="recquirement">Course Prerequisite(s):</label>
@@ -381,7 +381,7 @@
                     </div>
                     <div class="info-group">
                         <label for="meeting-time">Meeting Time:</label>
-                        <input type="text" id="meeting-time" value="Tuesdays & Thursdays 10:00 AM - 12:00 PM" />
+                        <input type="text" id="meeting-time" value="This asynchronous online course offers flexible learning with no set meeting times. Work at your own pace, but adhere to weekly deadlines. For personalized support, book a 1:1 Zoom meeting during office hours using the Calendly link." />
                     </div>
                     <div class="info-group">
                         <label for="location">Location:</label>
