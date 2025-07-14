@@ -340,7 +340,7 @@
                 </div>
                 <div class="info-group">
                     <label for="office-location">Office Location:</label>
-                    <input type="text" id="office-location" value="Tech Building, Room 205" />
+                    <input type="text" id="office-location" value="Zoom Meeting" />
                 </div>
                 <div class="info-group">
                     <label for="department">Department:</label>
