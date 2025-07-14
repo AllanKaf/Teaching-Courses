@@ -352,7 +352,7 @@
         <!-- Course Information -->
         <div class="course-section">
             <div class="section-header">
-                <h3>📚 Course Section Information</h3>
+                <h3>📚 Course Information</h3>
                 <p>Basic course details and logistics</p>
                 <button class="edit-btn" onclick="toggleEdit('course-info')">✏️ Edit</button>
             </div>
