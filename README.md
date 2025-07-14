@@ -324,19 +324,19 @@
             <div class="instructor-info">
                 <div class="info-group">
                     <label for="instructor-name">Instructor Name:</label>
-                    <input type="text" id="instructor-name" value="Dr. Sarah Mitchell" />
+                    <input type="text" id="instructor-name" value="Allan Kafley" />
                 </div>
                 <div class="info-group">
                     <label for="instructor-email">Email:</label>
-                    <input type="email" id="instructor-email" value="sarah.mitchell@northseattle.edu" />
+                    <input type="email" id="instructor-email" value="allan.kafley@northseattle.edu" />
                 </div>
                 <div class="info-group">
                     <label for="instructor-phone">Phone:</label>
-                    <input type="tel" id="instructor-phone" value="(206) 934-XXXX" />
+                    <input type="tel" id="instructor-phone" value="(206) 372-9543" />
                 </div>
                 <div class="info-group">
                     <label for="office-hours">Office Hours:</label>
-                    <input type="text" id="office-hours" value="M/W/F 10:00 AM - 12:00 PM" />
+                    <input type="text" id="office-hours" value="Wed/Thurs 10:00 AM - 12:00 PM" />
                 </div>
                 <div class="info-group">
                     <label for="office-location">Office Location:</label>
@@ -350,7 +350,7 @@
             <button class="save-btn" onclick="saveInstructorInfo()">💾 Save Instructor Information</button>
         </div>
 
-        <!-- Course Section Information -->
+        <!-- Course Information -->
         <div class="course-section">
             <div class="section-header">
                 <h3>📚 Course Section Information</h3>
